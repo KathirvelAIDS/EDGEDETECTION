@@ -29,8 +29,8 @@ Show to detected image
 ## Program:
 
 ```
-Developed By: Jegathish S
-Register No: 212221230041
+Developed By: KATHIRVEL A
+Register No: 212221230047
 ```
 ``` 
 # Import the packages
